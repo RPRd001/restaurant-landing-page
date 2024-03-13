@@ -1,0 +1,17 @@
+.container {
+    width: 90%;
+    background-color: white;
+    color: black;
+    padding-top: 5rem;
+}
+
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.card {
+    background-color: darkslategray;
+    color: white;
+    padding: 1rem;
+}
